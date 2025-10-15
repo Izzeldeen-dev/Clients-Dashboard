@@ -1,0 +1,101 @@
+{
+  "clients": {
+    "JVz06XPgDDVKeVxcokrEqiqQ7wM2": {
+      "name": "Test Client",
+      "email": "client@test.com",
+      "accountManagerId": "2veXTEcr6JSIEQNKAjk22Sl4g963",
+      "platforms": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "weeklyData": {
+        "2025-09-23": {
+          "tiktok": {
+            "views": 38000,
+            "followers": 1900,
+            "dms": 28
+          },
+          "instagram": {
+            "views": 28000,
+            "followers": 2500,
+            "dms": 24
+          },
+          "youtube": {
+            "views": 9500,
+            "followers": 950,
+            "dms": 7
+          },
+          "videosPosted": 10,
+          "updatedAt": 1727049600000
+        },
+        "2025-09-30": {
+          "tiktok": {
+            "views": 45000,
+            "followers": 2200,
+            "dms": 38
+          },
+          "instagram": {
+            "views": 32000,
+            "followers": 2900,
+            "dms": 31
+          },
+          "youtube": {
+            "views": 12000,
+            "followers": 1100,
+            "dms": 9
+          },
+          "videosPosted": 12,
+          "updatedAt": 1727654400000
+        },
+        "2025-10-07": {
+          "tiktok": {
+            "views": 50000,
+            "followers": 2500,
+            "dms": 45
+          },
+          "instagram": {
+            "views": 35000,
+            "followers": 3200,
+            "dms": 38
+          },
+          "youtube": {
+            "views": 15000,
+            "followers": 1200,
+            "dms": 12
+          },
+          "videosPosted": 15,
+          "updatedAt": 1728259200000
+        },
+        "2025-10-14": {
+          "tiktok": {
+            "views": 65000,
+            "followers": 2800,
+            "dms": 52
+          },
+          "instagram": {
+            "views": 42000,
+            "followers": 3500,
+            "dms": 45
+          },
+          "youtube": {
+            "views": 18000,
+            "followers": 1350,
+            "dms": 15
+          },
+          "videosPosted": 18,
+          "updatedAt": 1728864000000
+        }
+      }
+    }
+  },
+  "accountManagers": {
+    "2veXTEcr6JSIEQNKAjk22Sl4g963": {
+      "name": "Test Manager",
+      "email": "manager@test.com",
+      "assignedClients": {
+        "JVz06XPgDDVKeVxcokrEqiqQ7wM2": true
+      }
+    }
+  }
+}
